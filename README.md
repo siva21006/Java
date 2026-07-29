@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/siva21006/Java/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/siva21006/Java/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/siva21006/Java/tree/master/0217-contains-duplicate) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/siva21006/Java/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Math
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/siva21006/Java/tree/master/0217-contains-duplicate) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/siva21006/Java/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Two Pointers
 |  |
@@ -33,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/siva21006/Java/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/siva21006/Java/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
