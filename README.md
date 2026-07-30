@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/siva21006/Java/tree/master/0008-string-to-integer-atoi) |
+| [0049-group-anagrams](https://github.com/siva21006/Java/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/siva21006/Java/tree/master/0125-valid-palindrome) |
 | [0709-to-lower-case](https://github.com/siva21006/Java/tree/master/0709-to-lower-case) |
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/siva21006/Java/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/siva21006/Java/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/siva21006/Java/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/siva21006/Java/tree/master/0217-contains-duplicate) |
@@ -21,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/siva21006/Java/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/siva21006/Java/tree/master/0217-contains-duplicate) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/siva21006/Java/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Two Pointers
@@ -38,5 +41,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/siva21006/Java/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/siva21006/Java/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
